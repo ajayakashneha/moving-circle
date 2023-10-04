@@ -1,0 +1,15 @@
+.circle{
+    height: 30px;
+    width: 30px;
+    background-color: black;
+    border-radius: 50%;
+    position: absolute;
+    top: 30%;
+    left: 30%;
+}
+
+body{
+    background-color: bisque;
+    position: relative;
+
+}
